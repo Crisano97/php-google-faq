@@ -6,13 +6,15 @@
 
 div.container {
     width: 80%;
-    margin: 0 auto;
-    margin-top: 50px;
-    
+    margin: 0 auto;    
 }
 
 div.container p {
     margin: 2rem 0;
+}
+
+div.content-container{
+    margin: 50px 0;
 }
 
 li{
